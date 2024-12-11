@@ -35,9 +35,7 @@ start
 
 ### [Oggle](https://github.com/KyjuanWashington-DEW/2024Programming2-/tree/main/DEWsOggle)
 
-![](https://raw.githubusercontent.com/KyjuanWashington-DEW/KyjuanWashington-DEW.Github.io/refs/heads/main/BrackenCave.png)
-
-(https://raw.githubusercontent.com/KyjuanWashington-DEW/KyjuanWashington-DEW.Github.io/refs/heads/main/OggleConsole.png)
+![](https://raw.githubusercontent.com/KyjuanWashington-DEW/KyjuanWashington-DEW.Github.io/refs/heads/main/OggleConsole.png)
 
 start
 
