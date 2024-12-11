@@ -7,7 +7,7 @@ Portfolio
 
 ![](https://raw.githubusercontent.com/KyjuanWashington-DEW/KyjuanWashington-DEW.Github.io/refs/heads/main/CraftingSystem.png)
 
-A system utilizing inheritance, encapsulation, and more properties to create a crafting game.
+A system utilizing inheritance, encapsulation, and more properties to create a crafting/exploration game.
 
 
 -----------------------------------------------------------------------------------------
