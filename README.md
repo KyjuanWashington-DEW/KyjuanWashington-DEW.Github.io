@@ -27,7 +27,7 @@ start
 
 ![](https://raw.githubusercontent.com/KyjuanWashington-DEW/KyjuanWashington-DEW.Github.io/refs/heads/main/BrackenCave.png)
 
-start
+An application simulating taking care of bats in their environment 
 
 
 -----------------------------------------------------------------------------------------
@@ -37,7 +37,7 @@ start
 
 ![](https://raw.githubusercontent.com/KyjuanWashington-DEW/KyjuanWashington-DEW.Github.io/refs/heads/main/OggleConsole.png)
 
-start
+My take on the boggle game where you guess the letters in a word.
 
 
 -----------------------------------------------------------------------------------------
