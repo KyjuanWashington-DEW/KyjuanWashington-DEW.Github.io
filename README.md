@@ -7,7 +7,7 @@ Portfolio
 
 ![](https://raw.githubusercontent.com/KyjuanWashington-DEW/KyjuanWashington-DEW.Github.io/refs/heads/main/CraftingSystem.png)
 
-start
+A system utilizing inheritance, encapsulation, and more properties to create a crafting game.
 
 
 -----------------------------------------------------------------------------------------
@@ -17,7 +17,7 @@ start
 
 ![](https://raw.githubusercontent.com/KyjuanWashington-DEW/KyjuanWashington-DEW.Github.io/refs/heads/main/CardgamePic.png)
 
-start
+An application heavily focusing on the properties of inheritance. Across multiple card games. 
 
 
 -----------------------------------------------------------------------------------------
